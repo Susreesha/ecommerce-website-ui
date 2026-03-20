@@ -31,10 +31,19 @@ A responsive e-commerce website UI built using HTML, CSS, and Bootstrap. The pro
 ![Products](ecommerce-products.png)
 
 ### Product Modal
-![Modal](ecommerce-products-modal.png)
+![Modal](ecommerce-product-modal.png)
+
+### offers
+![Offers](ecommerce-offers.png)
+
+# deals
+![Deals](ecommerce-deals.png)
+
+# trending blogs
+![Trending Blogs](ecommerce-trending-blogs.png)
 
 ### Footer
-![Footer](footer.png)
+![Contact Us](ecommerce-contact-us.png)
 
 ## What I Learned
 - Responsive design using Bootstrap  
