@@ -1,0 +1,253 @@
+
+.ecommerce-navbar-logo {
+    width: 30%;
+}
+.ecommerce-services-bg {
+    background-color: white;
+    font-family: 'Roboto';
+}
+
+.ecommerce-services-main-heading {
+    color: #183b56;
+    font-size: 41px;
+    font-weight: bold;
+}
+
+.ecommerce-services-main-para {
+    color: #616c7c;
+    font-size: 25px;
+}
+
+.ecommerce-services-img {
+    width: 32%;
+}
+
+.ecommerce-services-card-heading {
+    font-size: 25px;
+    color: #1f2933;
+}
+
+.ecommerce-services-card-para {
+    font-size: 19px;
+    color: #7b8794;
+}
+.ecommerce-products-main-heading {
+    color: #183b56;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.ecommerce-products-card1 {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    color: white;
+    font-family: 'Roboto';
+    padding: 14px;
+    border-radius: 5px;
+}
+
+.ecommerce-products-card2 {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    color: white;
+    font-family: 'Roboto';
+    padding: 14px;
+    border-radius: 5px;
+}
+
+.ecommerce-products-card-heading {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.ecommerce-products-card-para {
+    font-size: 16px;
+}
+
+.ecommerce-products-card-button {
+    background-color: white;
+    color: #ff9f00;
+    font-size: 16px;
+    border-width: 0px;
+    border-radius: 20px;
+    width: 50%;
+    padding: 7px;
+}
+
+.modal-card-heading {
+    color: black;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: 'Roboto';
+}
+
+.modal-card-para {
+    color: black;
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.ecommerce-offers-bg {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    width: 100%;
+    background-size: cover;
+}
+
+.ecommerce-offers-logo {
+    width: 90%;
+}
+
+.ecommerce-offers-img {
+    width: 100%;
+}
+
+.ecommerce-offers-heading {
+    font-size: 32px;
+    color: #ad2167;
+    font-weight: bold;
+    font-family: 'Roboto';
+}
+
+.ecommerce-offers-para {
+    color: white;
+    font-size: 23px;
+}
+
+.ecommerce-offers-para-span1 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.ecommerce-offers-credit-img {
+    width: 70%;
+}
+.ecommerce-blogs-main-heading {
+    color: #183b56;
+    font-size: 41px;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.ecommerce-blogs-card {
+    background-color: white;
+    overflow: hidden;
+}
+
+.ecommerce-blogs-card-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.ecommerce-blogs-card-para {
+    color: #959ead;
+    font-size: 19px;
+}
+
+.ecommerce-blogs-card-link {
+    color: #ff9f00;
+    font-weight: bold;
+}
+.ecommerce-explore-bg {
+    background-color: #f5f7fa;
+    font-family: 'Roboto';
+}
+
+.ecommerce-explore-main-heading {
+    color: #183b56;
+    font-size: 41px;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.ecommerce-explore-card {
+    background-color: white;
+    border-radius: 14px;
+    font-family: 'Roboto';
+}
+
+.ecommerce-explore-card-image {
+    width: 100%;
+    border-radius: 14px;
+    object-fit: cover;
+    font-family: 'Roboto';
+}
+
+.ecommerce-explore-para {
+    font-size: 19px;
+    color: #1f2933;
+    font-family: 'Roboto';
+}
+
+.ecommerce-explore-card-link {
+    color: #ff9f00;
+    font-weight: bold;
+    font-family: 'Roboto';
+}
+
+.ecommerce-explore-card2-image {
+    width: 90%;
+    border-radius: 14px;
+    font-family: 'Roboto';
+}
+.ecommerce-contact-us-bg {
+    background-color: #f5f7fa;
+    text-align: center;
+}
+
+.ecommerce-contact-us-heading {
+    color: #183b56;
+    font-size: 41px;
+    font-weight: bold;
+}
+
+.ecommerce-contact-us-btn {
+    color: #ff9f00;
+    font-size: 23px;
+    border-color: #ff9f00;
+    border-style: solid;
+    width: 50%;
+    background-color: transparent;
+}
+.ecommerce-footer-bg {
+    background-color: #0d2436;
+}
+
+.ecommerce-footer-image {
+    width: 50%;
+}
+
+.ecommerce-footer-logo-container {
+    background-color: #152c3e;
+    border-radius: 50px;
+}
+
+.ecommerce-footer-p1 {
+    color: white;
+    font-size: 14px;
+}
+
+.ecommerce-footer-icon {
+    color: #5a7184;
+    font-size: 23px;
+    padding: 10px;
+}
+
+.ecommerce-card-font-color {
+    color: #5a7184;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.ecommerce-card-list {
+    font-weight: normal;
+    list-style-type: none;
+    padding: 0px;
+}
