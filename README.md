@@ -1,4 +1,7 @@
-# E-Commerce Website UI
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71fbac67-f585-44c3-9215-180fcf7c5dcd" /># E-Commerce Website UI
+
+**Live Demo:** https://susreesha.github.io/ecommerce-website-ui/
+
 ## Overview
 
 A responsive e-commerce website UI built using HTML, CSS, and Bootstrap. The project focuses on clean layout, user-friendly navigation, and structured design.
